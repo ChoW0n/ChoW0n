@@ -1,96 +1,62 @@
-<div align="center">
+<p>
+  <img src="./assets/c1-header.svg" width="100%" alt="초원 · ChoW0n — 게임 기획 · 개발">
+</p>
 
-# C1 GAME CANVAS
+게임 기획자를 목표로,  
+만들고 싶은 게임을 직접 구현하면서 공부하고 있습니다.
 
-### CHOW0N · GAME DESIGN / DEVELOPMENT
+<img src="./assets/c1-tools.svg" width="520" alt="주로 C#과 Unity. .NET, TypeScript, React로 웹 게임도 만듭니다.">
 
-**게임을 설계하고, 직접 구현하고, 검증 가능한 결과로 남긴다.**
+<br><br>
 
-`DESIGN` · `CODE` · `SYSTEM` · `SIMULATION` · `AI WORKFLOW`
+<a href="https://github.com/ChoW0n/fps-Pro-Team-Manager">
+  <img src="./assets/c1-draft-order.svg" width="100%" alt="지금 만드는 게임 · DRAFT ORDER — 선수가 아니라 감독이 되는 전술 FPS 팀 운영 게임. 저장소 보기.">
+</a>
 
-</div>
-
----
-
-## C1 / PROFILE
-
-게임 기획자를 목표로 개발하는 **ChoW0n**의 작업 공간임.  
-아이디어를 문서에서 끝내지 않고 실제 플레이 가능한 시스템으로 구현하며 공부하고 있음.
-
-주 언어는 **C#**이며 Unity에서 시작해 현재는 **TypeScript / React / Canvas 기반 웹 게임 개발**까지 확장 중임.  
-게임 로직과 표현 계층을 분리하고, 객체지향 구조와 검증 가능한 개발 기록을 중시함.
-
-> **MAKE IT. UNDERSTAND IT. PROVE IT.**
->
-> 많이 만드는 것보다, 만든 것을 이해하고 통제하며 완성했다는 사실을 증명하는 능력을 쌓는 중임.
-
----
-
-## CURRENT PROJECT / DRAFT ORDER
-
-### [DRAFT ORDER](https://github.com/ChoW0n/fps-Pro-Team-Manager)
-
-**TACTICAL FPS · PRO TEAM MANAGEMENT · SIMULATION**
-
-선수가 아니라 감독이 되는 전술 FPS 프로게임단 운영 게임임.  
-팀을 구성하고 오퍼레이터와 작전을 선택한 뒤, 5대5 무리스폰 경기를 관전하며 전술과 선수 능력의 결과를 확인하는 구조를 개발 중임.
-
-`TypeScript` · `React` · `Canvas` · `Game Simulation` · `AI Behavior`
-
-[PROJECT STATE →](https://github.com/ChoW0n/fps-Pro-Team-Manager/blob/main/docs/PROJECT_STATE.md)
+<sub>TypeScript · React · Canvas &nbsp; / &nbsp; <a href="https://github.com/ChoW0n/fps-Pro-Team-Manager/blob/main/docs/PROJECT_STATE.md">작업 현황 ↗</a></sub>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/ChoW0n/fps-Pro-Team-Manager/d424d8203575c0dee8cce01ae7f1b3030bdfbfd4/screenshots/dev-watch-12s.png" width="100%" alt="DRAFT ORDER 개발 중 관전 화면">
+<a href="https://github.com/ChoW0n/PokemonlikeProject">
+  <img src="./assets/c1-pokemon.svg" width="410" alt="PokemonlikeProject — 포켓몬 전투 규칙을 만들어 보는 중입니다. C# / .NET / Blazor. 저장소 보기.">
+</a>
+<a href="https://github.com/ChoW0n/End-Distopirism">
+  <img src="./assets/c1-end.svg" width="410" alt="End-Distopirism — 캐릭터와 스킬을 연결했던 팀 프로젝트. C# / Unity. 저장소 보기.">
+</a>
 
----
+<br><br>
 
-## PROJECT ARCHIVE
+<details>
+<summary>게임 화면 / 작업 기록</summary>
 
-### [END-DISTOPIRISM](https://github.com/ChoW0n/End-Distopirism)
+<br>
 
-`C#` · `Unity` · `2D Battle System`
+**DRAFT ORDER**
 
-캐릭터, 스킬, 코인 판정, 대상 선택, 전투 진행, UI와 연출을 연결하며 제작한 팀 프로젝트임.  
-현재 **[End-Distopirism2](https://github.com/ChoW0n/End-Distopirism2)**에서 웹 환경을 기반으로 구조를 재설계하고 있음.
+팀을 짜고, 오퍼레이터와 작전을 고른 뒤 5대5 경기를 지켜봅니다.  
+전술의 차이가 선수 움직임에서 보이게 만드는 중입니다.
 
-### [POKEMONLIKEPROJECT](https://github.com/ChoW0n/PokemonlikeProject)
+<!-- 저장소에 남아 있는 개발 캡처입니다. 현재 버전의 실시간 화면은 아닙니다. -->
+<img src="https://raw.githubusercontent.com/ChoW0n/fps-Pro-Team-Manager/d424d8203575c0dee8cce01ae7f1b3030bdfbfd4/screenshots/dev-watch-12s.png" width="100%" alt="DRAFT ORDER 저장소에 남아 있는 개발 중 관전 화면 캡처">
 
-`C#` · `.NET` · `Blazor` · `Tests`
+<sub>저장소에 남겨둔 개발 화면 · 최신 상태는 <a href="https://github.com/ChoW0n/fps-Pro-Team-Manager/blob/main/docs/PROJECT_STATE.md">작업 현황</a>에서 볼 수 있습니다.</sub>
 
-포켓몬식 전투 규칙을 직접 모델링하며 기술, 특성, 날씨처럼 여러 규칙이 동시에 작동할 때의 처리 구조를 실험하는 프로젝트임.
+<br>
 
----
+**PokemonlikeProject**
 
-## DEVELOPMENT STACK
+기술과 특성, 날씨가 겹쳤을 때의 처리를 다루고 있습니다.
 
-```text
-GAME DESIGN      System Design / Combat / Simulation / UX / QA
-CORE             C# / OOP / .NET
-UNITY            Unity / 2D / Gameplay Programming
-WEB              TypeScript / React / Canvas
-WORKFLOW         Git / GitHub / AI-assisted Development
-METHOD           Spec-driven Implementation / Test / QA / Documentation
-```
+<a href="https://github.com/ChoW0n/PokemonlikeProject/tree/main/PokemonBattle.Tests">전투 규칙 테스트</a>
 
----
+<br>
 
-## AI × GAME DEVELOPMENT
+**End-Distopirism**
 
-AI를 단순 코드 생성기로 사용하지 않음.
+전투 진행과 대상 선택, UI와 연출을 연결하며 작업했던 기록입니다.
 
-기획 → 조사 → 명세 → 구현 → 테스트 → QA → 리팩터링 → 문서화의 개발 루프에 배치하고, 작업 성격에 따라 필요한 도구와 추론 수준을 선택함. 결과물은 가능한 한 저장소의 코드·테스트·문서·커밋으로 검증 가능하게 남김.
+</details>
 
-**목표는 AI가 대신 만든 프로젝트가 아니라, AI를 통제하며 더 높은 수준의 게임을 완성할 수 있는 개발 역량을 구축하는 것임.**
+<br>
 
----
-
-<div align="center">
-
-### C1 GAME CANVAS
-
-**DESIGN → BUILD → TEST → PROVE**
-
-[ALL REPOSITORIES →](https://github.com/ChoW0n?tab=repositories)
-
-</div>
+<sub><a href="https://github.com/ChoW0n?tab=repositories">다른 공부 기록 보기 ↗</a></sub>
