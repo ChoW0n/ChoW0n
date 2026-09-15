@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+<title id="title">ChoW0n — 게임 기획 · 개발</title>
+<desc id="desc">검정, 아이보리, 적색을 사용한 거친 산업풍 프로필 헤더</desc>
+<defs>
+  <pattern id="grain" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="3" r="1" fill="#ffffff" opacity=".035"/><circle cx="17" cy="8" r="1" fill="#ffffff" opacity=".025"/><circle cx="9" cy="19" r="1" fill="#c7322b" opacity=".05"/></pattern>
+</defs>
+<rect width="960" height="260" rx="12" fill="#0b0b0c"/>
+<rect width="960" height="260" rx="12" fill="url(#grain)"/>
+<path d="M0 34H625L591 50H0Z" fill="#7d1717" opacity=".95"/>
+<path d="M960 226H364L398 210H960Z" fill="#7d1717" opacity=".95"/>
+<path d="M46 58H50V204H46Z" fill="#c7322b"/>
+<path d="M63 58H66V156H63Z" fill="#ece8df" opacity=".4"/>
+<path d="M716 40L926 40L887 59L677 59Z" fill="#ece8df" opacity=".08"/>
+<path d="M705 198L915 198L876 218L666 218Z" fill="#c7322b" opacity=".18"/>
+<g transform="translate(765 77)" fill="none" stroke="#c7322b" stroke-width="3" opacity=".9"><circle cx="56" cy="56" r="49"/><path d="M56 0V112M0 56H112" opacity=".22"/><path d="M22 83L83 22M35 96L96 35"/></g>
+<text x="92" y="116" fill="#ece8df" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="800" letter-spacing="2">ChoW0n</text>
+<text x="95" y="151" fill="#c7322b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="5">GAME DESIGN · DEVELOPMENT</text>
+<text x="95" y="187" fill="#aaa49b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">만들고 싶은 게임을 직접 구현하면서 공부하고 있습니다.</text>
+<text x="95" y="218" fill="#6d6862" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" letter-spacing="2">DESIGN / CODE / TEST / ITERATE</text>
+</svg>
